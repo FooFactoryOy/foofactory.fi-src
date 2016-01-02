@@ -24,6 +24,5 @@ exports.config =
 
   paths:
     public: './public'
-    ignored: /template-/g
 
   minify: true
