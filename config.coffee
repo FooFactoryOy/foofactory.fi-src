@@ -26,3 +26,6 @@ exports.config =
     public: './public'
 
   minify: true
+
+  conventions:
+    ignored: /template-/g
