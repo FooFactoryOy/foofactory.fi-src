@@ -1,3 +1,5 @@
+# requires node 4.x
+
 # Brunch + Nunjucks == Static Website
 Template for using [Brunch](http://brunch.io) to generate static web pages
 while using [Nunjucks](http://mozilla.github.io/nunjucks/) for templating.
